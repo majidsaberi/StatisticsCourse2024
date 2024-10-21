@@ -1,7 +1,7 @@
 # Statistics Course 2024: Applied Statistics with R for Psychology and Neuroscience
 
 ## Overview
-Here, you can find materials and codes for an online 10-session statistics course designed specifically for students in psychology, cognitive science, and neuroscience. The course provides hands-on training with R, a sophisticated tool for statistical analysis in research. For more details, see the [Course Outline](https://github.com/majidsaberi/StatsCourse24/blob/main/CourseOutline.md).
+Here, you can find materials and codes for a 10-session online statistics course held in 2024, designed specifically for students in psychology, cognitive science, and neuroscience. The course provides hands-on training with R, a sophisticated tool for statistical analysis in research. For more details, see the [Course Outline](https://github.com/majidsaberi/StatsCourse24/blob/main/CourseOutline.md).
 
 This was a non-profit and free course mainly designed for Iranian students studying in Iran who do not have wide access to resources and equal opportunities to join international events. Some students were selected from those who registered. The course included hands-on training focused on real problems, accompanied by a set of assignments. The course was presented in Persian (Farsi), and all the videos are available in the YouTube links below:
 [YouTube Link]

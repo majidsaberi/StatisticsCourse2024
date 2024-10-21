@@ -15,8 +15,9 @@ Although the course is presented in Persian, any interested person can utilize Y
 - **Course Instructor**: Majid Saberi, PhD
 
 ## Course Notes
-Course notes, provided by students in Persian, are available in the folder. I would appreciate any volunteers who would like to help refine them. Special thanks to the following students for their contributions to the notes:
+[Course notes](https://github.com/majidsaberi/StatsCourse24/tree/main/CourseNotes), provided by students in Persian. I would appreciate any volunteers who would like to help refine them. Special thanks to the following students for their contributions to the notes:
 Asal Saeedi, Dena Moosavi, Farzaneh Ebrahimi Jouzdani, Marziyeh Rahimi ZamanAbadi, Maryam Azimi, Maryam Shamsaei, Narjes Amin, Negar Haghighi, Parinaz Khosravani, Sepideh Kardan, Shahrzad Ahmadkaraji, Sajedeh Rezaei Talebi.
 
+## Inquiries 
 For any inquiries about the course or to volunteer in refining the course notes, please contact me at:  
 majid.saberi.neuro@gmail.com

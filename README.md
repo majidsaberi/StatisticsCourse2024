@@ -11,7 +11,7 @@ The course is presented in Persian; however, anyone interested can use YouTube's
 ## Course Structure
 - **Duration**: 10 sessions
 - **Mode**: Online
-- **Target Audience**: Students in psychology, neuroscience, as well as biological and medical sciences
+- **Target Audience**: Students in psychology, neuroscience, and cognitive science
 - **Course Instructor**: Majid Saberi, PhD
 
 ## Course Notes

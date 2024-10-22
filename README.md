@@ -22,4 +22,4 @@ Asal Saeedi, Dena Moosavi, Farzaneh Ebrahimi Jouzdani, Marziyeh Rahimi ZamanAbad
 For any inquiries about the course or to volunteer in refining the course notes, please contact me at:  
 majid.saberi.neuro@gmail.com
 
-**With a respect for diversity and equality, aiming to bridge the gap in educational opportunities for all.**
+**With respect for diversity and equality, aiming to bridge the gap in educational opportunities for all.**

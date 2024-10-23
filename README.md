@@ -3,7 +3,7 @@
 ## Overview
 Here, you can find materials and codes for a 10-session online statistics course held in 2024, designed specifically for students in psychology, cognitive science, and neuroscience. The course provides hands-on training with R, a sophisticated tool for statistical analysis in research. For more details, see the [Course Outline](https://github.com/majidsaberi/StatsCourse24/blob/main/CourseOutline.md).
 
-This was a non-profit and free course mainly designed for Iranian students studying in Iran. Some students were selected from those who registered. The course included hands-on training focused on real problems, accompanied by a set of assignments. The course was presented in Persian (Farsi), and all the videos are available in the YouTube links below:
+This was a non-profit course for the benefit of the community, mainly designed for Iranian students studying in Iran. Some students were selected from those who registered. The course included hands-on training focused on real problems, accompanied by a set of assignments. The course was presented in Persian (Farsi), and all the videos are available in the YouTube links below:
 [YouTube Link](https://www.youtube.com/playlist?list=PLNph6-dBvadPCklioYlmenxXhzTjiFKJT)
 
 The course is presented in Persian; however, anyone interested can use YouTube's auto-translate service in their preferred language by activating subtitles.
